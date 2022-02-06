@@ -1,13 +1,4 @@
-尋找靈感中
-
-- 👋 Hi, I’m @cheng1103
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
-<!---
-cheng1103/cheng1103 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+爬蟲筆記區：  
+Scrapy  
+https://www.learncodewithmike.com/search/label/Scrapy%E6%95%99%E5%AD%B8%E7%B3%BB%E5%88%97  
+https://segmentfault.com/a/1190000013178839  
